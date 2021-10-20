@@ -4,7 +4,7 @@ This repository contains all of the Wallpapers that I regularly use.
 ![Sample of Wallpapers](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb.jpg)
 
 # Installation & Usage
-The reason these wallpapers are in a Git Repo, rather than a zip file on my website, is so that they can be easily downloaded as part of an installation script, or just quickly on the command line -- to that end, a simple ``git clone https://github.com/makccr/wallpapers``, will do the trick.
+The reason these wallpapers are in a Git Repo, rather than a zip file on my website, is so that they can be easily downloaded as part of an installation script, or just quickly on the command line -- to that end, a simple ``git clone https://github.com/XcaliBuR75/wallpapers``, will do the trick.
 
 ```
 git clone https://github.com/XcaliBuR75/wallpapers
